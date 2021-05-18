@@ -1,3 +1,0 @@
-# Simple Git Repo
-
-description
