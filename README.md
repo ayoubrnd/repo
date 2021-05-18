@@ -1,2 +1,3 @@
 # Simple Git Repo
-Content
+\n\nFirst modification
+Develop feature
